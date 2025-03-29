@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhusudan Singh</h1>
-<h3 align="center">A programmer who wants to keep pushing themselves to the next level.</h3>
+<h3 align="center">A programmer who wants to keep pushing himself to the next level.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monaco500&label=Profile%20views&color=0e75b6&style=flat" alt="monaco500" /> </p>
 
